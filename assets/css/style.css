@@ -2,7 +2,7 @@ body{
 	background: linear-gradient(to right, rgb(0, 255, 0), rgb(163, 92, 163));
 	text-align: center;
 	text-transform: uppercase;
-	font-family: 'Concert One', cursive;
+	font-family: 'Roboto', sans-serif;
 }
 
 h3{
